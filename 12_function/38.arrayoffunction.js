@@ -16,3 +16,4 @@ console.log(doubleIt(5)); //10
 
 const printIt = name => console.log(name);
 printIt("Hello Arrow Function!");
+
